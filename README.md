@@ -1,6 +1,28 @@
 <h1 align="center">Hi 👋, I'm Khawar Saeed</h1>
 <h3 align="center">I’m a passionate Software Engineer with over six plus years of experience in building robust and scalable applications. My expertise spans across a variety of technologies including ASP.NET Core, Blazor, Angular, React, and more. I thrive on solving complex problems and delivering high-quality software solutions that drive business success.</h3>
 
+## 🔧 Technologies & Tools
+
+- **Backend Development:** 
+  - ASP.NET Core
+  - MVC Web APIs
+  - Blazor
+  - ABP Framework
+- **Frontend Development:** 
+  - Angular
+  - React
+  - JavaScript
+  - Razor Pages
+- **Databases:** 
+  - MongoDB
+  - MS SQL
+- **Other Tools & Technologies:**
+  - Docker
+  - CI/CD
+  - Git
+  - RESTful APIs
+  - GraphQL
+  
 - 🔭 I’m currently working on **DocumentGPT an intelligent document processing tool.**
 
 - 🌱 I’m currently learning **AI/ML with Python 3.0**
