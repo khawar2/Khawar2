@@ -103,7 +103,7 @@ Focused on AI integrations, automation systems, scalable backend architectures, 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
 </a>
 
-<a href="https://linkedin.com/in/khawar-saeed-b14566159" target="blank">
+<a href="https://www.linkedin.com/in/khawarsaeed096/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
