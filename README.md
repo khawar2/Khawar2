@@ -1,100 +1,123 @@
-```html
 <h1 align="center">Hi 👋, I'm Khawar Saeed</h1>
 
-<h3 align="center">Senior Full Stack Engineer | AI Integration Engineer | .NET & MERN Stack Developer</h3>
+<h3 align="center">
+Senior Full Stack Engineer • AI Integration Engineer • .NET & MERN Stack Developer
+</h3>
 
 <p align="center">
-  I’m a Full Stack Software Engineer with 7+ years of experience building scalable web applications, APIs, AI-powered systems, and enterprise solutions using .NET, React, Next.js, Node.js, and cloud technologies.
+Full Stack Software Engineer with 7+ years of experience building scalable web applications, enterprise systems, APIs, AI-powered platforms, and modern SaaS applications.
 </p>
 
-<hr />
+<p align="center">
+Focused on AI integrations, automation systems, scalable backend architectures, and production-grade engineering.
+</p>
 
-<h2>About Me</h2>
+---
 
-<ul>
-  <li>🔭 Currently building AI-powered applications and automation systems</li>
-  <li>🌱 Learning AI Engineering, RAG Systems, UiPath Automation, and LLM integrations</li>
-  <li>💡 Passionate about scalable architectures, distributed systems, and modern SaaS platforms</li>
-  <li>👨‍💻 Strong experience in healthcare, dashboards, enterprise applications, and workflow systems</li>
-  <li>⚡ Focused on performance optimization, clean architecture, and production-ready systems</li>
-</ul>
+# 🚀 About Me
 
-<h2>Tech Stack</h2>
+- 🔭 Currently building AI-powered applications and automation systems
+- 🌱 Learning AI Engineering, RAG Systems, UiPath Automation, and LLM integrations
+- 💡 Passionate about scalable architecture, distributed systems, and modern SaaS platforms
+- 👨‍💻 Strong experience in healthcare systems, dashboards, enterprise applications, and workflow automation
+- ⚡ Focused on clean architecture, performance optimization, and production-ready applications
 
-<h3>Frontend</h3>
-<ul>
-  <li>React.js</li>
-  <li>Next.js</li>
-  <li>Angular</li>
-  <li>TypeScript</li>
-  <li>JavaScript</li>
-  <li>Tailwind CSS</li>
-</ul>
+---
 
-<h3>Backend</h3>
-<ul>
-  <li>ASP.NET Core</li>
-  <li>.NET 6 / 7 / 8</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>REST APIs</li>
-  <li>GraphQL</li>
-  <li>Microservices</li>
-</ul>
+# 🛠 Tech Stack
 
-<h3>Databases</h3>
-<ul>
-  <li>PostgreSQL</li>
-  <li>MongoDB</li>
-  <li>SQL Server</li>
-  <li>Redis</li>
-</ul>
+## Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h3>Cloud & DevOps</h3>
-<ul>
-  <li>Azure</li>
-  <li>Docker</li>
-  <li>CI/CD</li>
-  <li>GitHub Actions</li>
-  <li>Vercel</li>
-  <li>Cloudflare</li>
-</ul>
+---
 
-<h3>AI & Automation</h3>
-<ul>
-  <li>OpenAI API</li>
-  <li>RAG Applications</li>
-  <li>AI Chatbots</li>
-  <li>Document Processing</li>
-  <li>UiPath Automation</li>
-  <li>OCR Workflows</li>
-</ul>
+## Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<h2>Current Interests</h2>
-<ul>
-  <li>AI SaaS Applications</li>
-  <li>Intelligent Automation</li>
-  <li>Full Stack Architecture</li>
-  <li>Scalable Backend Systems</li>
-  <li>AI + RPA Integrations</li>
-</ul>
+---
 
-<h2>Featured Projects</h2>
-<ul>
-  <li>AI Document Analyzer</li>
-  <li>Healthcare Appointment Platform</li>
-  <li>Enterprise Dashboard Systems</li>
-  <li>AI Chat Applications</li>
-  <li>Automation & Workflow Platforms</li>
-</ul>
+## Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
 
-<h2>Connect With Me</h2>
-<ul>
-  <li>GitHub: <a href="https://github.com/khawar2">https://github.com/khawar2</a></li>
-  <li>LinkedIn: <a href="https://linkedin.com/in/khawar-saeed-b14566159">https://linkedin.com/in/khawar-saeed-b14566159</a></li>
-  <li>Email: <a href="mailto:khawarsaeed26@gmail.com">khawarsaeed26@gmail.com</a></li>
-</ul>
+---
 
-<h2>Fun Fact</h2>
-<p>I enjoy building systems that combine AI, automation, and scalable engineering to solve real business problems.</p>
-```
+## Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+
+- OpenAI API Integrations
+- RAG Applications
+- AI Chatbots
+- OCR & Document Processing
+- Workflow Automation
+- Intelligent Automation Systems
+
+---
+
+# 💼 What I Build
+
+- AI SaaS Platforms
+- Enterprise Dashboards
+- Healthcare Systems
+- AI Document Processing Systems
+- Workflow Automation Platforms
+- Scalable Backend APIs
+- Real-Time Applications
+
+---
+
+# 📌 Current Interests
+
+- AI Engineering
+- Intelligent Automation
+- Full Stack Architecture
+- Scalable Distributed Systems
+- Performance Optimization
+- Developer Tooling
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/khawar2" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+</a>
+
+<a href="https://linkedin.com/in/khawar-saeed-b14566159" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+- 📫 Email: **khawarsaeed26@gmail.com**
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy combining AI, automation, and scalable engineering to solve real-world business problems.
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=khawar2&show_icons=true&locale=en&layout=compact" />
+</p>
